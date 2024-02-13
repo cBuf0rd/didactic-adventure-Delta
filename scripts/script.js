@@ -15,7 +15,7 @@ $(document).ready(function(){
     var randAnimal = sAnimal[Math.floor(Math.random() * sAnimal.length)];
       
       // sends the output
-    alert(nameUpper + " your spirit animal is " + randAnimal + "!");
+    alert(nameUpper + " YOUR SPIRIT ANIMAL IS " + randAnimal + "!");
   });
       
    // function that will make the name lowercase
