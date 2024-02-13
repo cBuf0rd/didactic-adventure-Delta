@@ -28,7 +28,7 @@ $(document).ready(function(){
     var nameLower = userName.toLowerCase();
       
       // array that holds spirit animal names
-      var sAnimal = ["Raspberry Crazy Ants", "Pink Fairy Armadillo", "Leafy Seadragon", "Ice Cream Cone Worm", "Fried Egg JellyFish", "Satanic Leaf-Tailed Gecko"];
+      var sAnimal = ["raspberry crazy ants", "pink fairy armadillo", "leafy seadragon", "ice cream cone worm", "fried egg jellyfish", "satanic leaf-tailed gecko"];
      
     // gets random from the array
     var randAnimal = sAnimal[Math.floor(Math.random() * sAnimal.length)];
