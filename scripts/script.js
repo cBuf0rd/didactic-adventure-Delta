@@ -9,7 +9,7 @@ $(document).ready(function(){
     var nameUpper = userName.toUpperCase();
       
       // array that holds spirit animal names
-      var sAnimal = ["Raspberry Crazy Ants", "Pink Fairy Armadillo", "Leafy Seadragon", "Ice Cream Cone Worm", "Fried Egg JellyFish", "Satanic Leaf-Tailed Gecko"];
+      var sAnimal = ["RASPBERRY CRAZY ANTS", "PINK FAIRY ARMADILLOP", "LEAFY SEADRAGON", "ICE CREAM CONE WORM", "FRIED EGG JELLYFISH", "SATANIC LEAF-TAILED GECKO"];
      
     // gets random from the array
     var randAnimal = sAnimal[Math.floor(Math.random() * sAnimal.length)];
